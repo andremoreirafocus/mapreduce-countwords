@@ -19,5 +19,3 @@ python mincemeat.py -p changeme localhost
 In this example, the client and the server runs at the same machine. To change it, replace the "localhost" parameter to the host where the server (name server is running)
 
 This code has been derived from the course from PUC Minas on Big Data Architecture, which is part of a PG in Distributed Systems Architecture
-
-
